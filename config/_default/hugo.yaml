@@ -1,0 +1,16 @@
+baseURL: https://celineencavale.github.io
+languageCode: en-us
+title: Celine
+publishDir: docs
+
+params:
+    sidebar:
+        subtitle: "Celine en cavale"
+        avatar:
+            enabled: true
+            local: false
+            src: https://avatars.githubusercontent.com/u/207916177?v=4
+
+menu:
+    main: []
+    social: []

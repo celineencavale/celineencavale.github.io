@@ -4,3 +4,12 @@ sidebar:
         enabled: true
         local: false
         src: https://avatars.githubusercontent.com/u/207916177?v=4
+
+footer:
+    since: 2024
+    customText: ""
+
+params:
+    widgets:
+        homepage: []
+        page: []
